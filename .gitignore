@@ -2,6 +2,6 @@
 *.json
 *.DS_Store
 
-*/data
+/data
 
-\ispeech
+/ispeech
