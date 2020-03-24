@@ -1,3 +1,6 @@
+#Install python-levenshtein for keyword matching
+python-Levenshtein
+
 #Install fuzzywuzzy for keyword match
 fuzzywuzzy
 
@@ -22,3 +25,7 @@ SpeechRecognition
 
 #Install matplotlib for visualizations
 matplotlib
+
+#PyAudio for accessing microphone
+PyAudio
+
