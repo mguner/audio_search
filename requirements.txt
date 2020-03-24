@@ -1,6 +1,9 @@
 #Install fuzzywuzzy for keyword match
 fuzzywuzzy
 
+#Pydub uses ffmpeg for converting mp3 to wav files 
+ffmpeg
+
 #Install pydub for silence detection and for handling Audio files.
 pydub
 
