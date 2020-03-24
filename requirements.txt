@@ -1,0 +1,21 @@
+#Install fuzzywuzzy for keyword match
+fuzzywuzzy
+
+#Install pydub for silence detection and for handling Audio files.
+pydub
+
+#Install librosa for the spectogram plots
+librosa
+
+#Install a pip package in the current Jupyter kernel
+google-cloud-storage
+
+
+#Install a pip package in the current Jupyter kernel
+google-cloud-speech
+
+#Install speech_recognition for speech to text
+SpeechRecognition
+
+#Install matplotlib for visualizations
+matplotlib
