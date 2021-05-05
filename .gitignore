@@ -2,7 +2,7 @@
 *.json
 *.DS_Store
 .idea
-
+*.wav
 /data
 
 /ispeech
