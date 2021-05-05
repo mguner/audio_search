@@ -1,6 +1,7 @@
 *.ipynb_checkpoints
 *.json
 *.DS_Store
+.idea
 
 /data
 

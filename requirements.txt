@@ -29,3 +29,6 @@ matplotlib
 #PyAudio for accessing microphone
 PyAudio
 
+## for Jupiter notebook
+ipykernel 
+
